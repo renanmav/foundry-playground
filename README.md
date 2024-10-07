@@ -64,3 +64,21 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+### NFT.sol
+
+Base Sepolia: https://sepolia.basescan.org/address/0x08c969e1287d9e15099e4663d6c0414df90aa06d
+
+```
+Deployer: 0xaCAe57882528fEBB7Ac2561188bE8915b20c56E8
+Deployed to: 0x08C969e1287d9E15099e4663d6c0414Df90AA06D
+Transaction hash: 0xfaade4f6aed30148351caa52202dba733c9e91ac1c96bb6b159a629e1bd63893
+```
+
+Base Mainnet: https://basescan.org/address/0x83A471ed5f07c9AA3f32a57F5017f8B56a7792Ce
+
+```
+Deployer: 0xaCAe57882528fEBB7Ac2561188bE8915b20c56E8
+Deployed to: 0x83A471ed5f07c9AA3f32a57F5017f8B56a7792Ce
+Transaction hash: 0xe89e70b6b987aa45f224cb7f42871129c2602cad2cafa8abd8a5e555a77b2fee
+```
