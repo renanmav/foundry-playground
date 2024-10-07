@@ -85,7 +85,7 @@ Transaction hash: 0xe89e70b6b987aa45f224cb7f42871129c2602cad2cafa8abd8a5e555a77b
 
 ### BasicMath.sol
 
-Base Sepolia:
+Base Sepolia: https://sepolia.basescan.org/address/0x4da2A4bBB657569a8E3dC697424eF9c8418a156A
 
 ```
 Deployer: 0xaCAe57882528fEBB7Ac2561188bE8915b20c56E8
@@ -93,10 +93,28 @@ Deployed to: 0x4da2A4bBB657569a8E3dC697424eF9c8418a156A
 Transaction hash: 0xc5ccd9a7baca8bd7d4be19abdf7a88a5155a2c7b8c4111611f978226a996d568
 ```
 
-Base Mainnet:
+Base Mainnet: https://basescan.org/address/0xd34520342f3b6c0c98ECB2485Bf034cecE80C7D5
 
 ```
 Deployer: 0xaCAe57882528fEBB7Ac2561188bE8915b20c56E8
 Deployed to: 0xd34520342f3b6c0c98ECB2485Bf034cecE80C7D5
 Transaction hash: 0xda47675d99a9287d098fc3485e4b99897eeb7c298db915a8025d6711a7e77491
+```
+
+### Counter.sol
+
+Base Sepolia: https://sepolia.basescan.org/address/0xe4eD0F9A05f0Ee8E924D33e48b25E2fd32a72d03
+
+```
+Deployer: 0xaCAe57882528fEBB7Ac2561188bE8915b20c56E8
+Deployed to: 0xe4eD0F9A05f0Ee8E924D33e48b25E2fd32a72d03
+Transaction hash: 0x609582fac1a4b6bfc72166dfad054bbcb2394a38674587e89798a8b6247afdb1
+```
+
+Base Mainnet: https://basescan.org/address/0x3cbf5E3b76A8eeAdc5303911DdF7F7C776FB4B9f
+
+```
+Deployer: 0xaCAe57882528fEBB7Ac2561188bE8915b20c56E8
+Deployed to: 0x3cbf5E3b76A8eeAdc5303911DdF7F7C776FB4B9f
+Transaction hash: 0x0498d6027151e51abb59b0f6304181db0c25c0d284751269bb74e0e3635e61a6
 ```
