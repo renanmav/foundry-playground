@@ -118,3 +118,21 @@ Deployer: 0xaCAe57882528fEBB7Ac2561188bE8915b20c56E8
 Deployed to: 0x3cbf5E3b76A8eeAdc5303911DdF7F7C776FB4B9f
 Transaction hash: 0x0498d6027151e51abb59b0f6304181db0c25c0d284751269bb74e0e3635e61a6
 ```
+
+### Greeter.sol
+
+Base Sepolia: https://sepolia.basescan.org/address/0x1F6f125483fdBa624Aef6ee9C98Af543E3E2b354
+
+```
+Deployer: 0xaCAe57882528fEBB7Ac2561188bE8915b20c56E8
+Deployed to: 0x1F6f125483fdBa624Aef6ee9C98Af543E3E2b354
+Transaction hash: 0x33c1d7355f7488c0b7486a87b256dd2b73a6d69d461fe520b7c89367bfb42773
+```
+
+Base Mainnet: https://basescan.org/address/0xFd9956986ef513A32eAa5e6D960d3B617Bf9bBe8
+
+```
+Deployer: 0xaCAe57882528fEBB7Ac2561188bE8915b20c56E8
+Deployed to: 0xFd9956986ef513A32eAa5e6D960d3B617Bf9bBe8
+Transaction hash: 0xe01f634689b3ef585ed5c313ba1ac07de08f6b748b5d081bea91ee916bd915b5
+```
