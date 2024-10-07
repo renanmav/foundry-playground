@@ -6,9 +6,7 @@ contract Greeter {
         return "Hello World";
     }
 
-    function SayHelloTo(
-        string memory _name
-    ) external pure returns (string memory) {
+    function SayHelloTo(string memory _name) external pure returns (string memory) {
         return string.concat("Hello ", _name, "!");
     }
 }

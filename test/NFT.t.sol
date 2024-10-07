@@ -34,12 +34,7 @@ contract NFTTest is Test {
         assertFalse(success, "Mint should have failed");
 
         // Check that no token was minted
-        vm.expectRevert(
-            abi.encodeWithSelector(
-                IERC721Errors.ERC721NonexistentToken.selector,
-                1
-            )
-        );
+        vm.expectRevert(abi.encodeWithSelector(IERC721Errors.ERC721NonexistentToken.selector, 1));
         nft.ownerOf(1);
     }
 }

@@ -10,11 +10,11 @@ contract BasicMathScript is Script {
 
         BasicMath basicMath = new BasicMath();
 
-        (uint sum, bool overflow) = basicMath.adder(type(uint).max, 1);
+        (uint256 sum, bool overflow) = basicMath.adder(type(uint256).max, 1);
         console.log("Sum:", sum);
         console.log("Overflow:", overflow);
 
-        (uint difference, bool underflow) = basicMath.subtractor(0, 1);
+        (uint256 difference, bool underflow) = basicMath.subtractor(0, 1);
         console.log("Difference:", difference);
         console.log("Underflow:", underflow);
 
